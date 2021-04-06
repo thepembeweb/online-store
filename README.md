@@ -1,6 +1,6 @@
 ﻿# Online Store
 
-> This project showcases a Full stack online store application with React.js and GraphQL.
+> This project showcases a Full stack online store application with Next.js and GraphQL.
 
 ![](html-js-css-logo.png)![](node-webpack-logo.png)![](graphql.png)![](NextJS-TypeScript.png)
 
